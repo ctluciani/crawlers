@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="4e9328a0-e104-4cd6-b48f-e2901014c364" name="spidey" url="http://104.236.175.167">
+        <fileTransfer host="104.236.175.167" port="22" privateKey="C:\Users\chris\bkey" rootFolder="/home" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
